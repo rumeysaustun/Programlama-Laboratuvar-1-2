@@ -33,19 +33,19 @@ _(Tekrar indirmeye gerek yok sadece kurulum yapılırsa yeterli olur)_
 Projeden Görseller
 ------------
 
-** + Girilen noktalar: 
+** + Girilen noktalar: **
 
 `{{1,2}{3,-3}{-5,-5}{-4,0}}`
 
-** + Çember çizen ekran:
+** + Çember çizen ekran:**
 
 ![ÇemberEkranı](https://user-images.githubusercontent.com/59111328/120503883-56169f80-c3cc-11eb-868e-0bd116b5716e.PNG)
 
-** + Eğri çizen ekran:
+** + Eğri çizen ekran:**
 
 ![EğriEkranı](https://user-images.githubusercontent.com/59111328/120504244-a5f56680-c3cc-11eb-8c14-d0d84c0cf4d9.PNG)
 
-** + Konsol ekranı:
+** + Konsol ekranı: **
 
 ![KonsolEkranı](https://user-images.githubusercontent.com/59111328/120504255-a857c080-c3cc-11eb-812f-3ae85ecca972.PNG)
 
