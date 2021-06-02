@@ -39,7 +39,8 @@ Projeden Görseller
 
 *Çember çizen ekran:
 
-![ÇemberEkranı](Prolab 1/1. Proje/readme resim/ÇemberEkranı.PNG)
+![ÇemberEkranı](https://user-images.githubusercontent.com/59111328/120503883-56169f80-c3cc-11eb-868e-0bd116b5716e.PNG)
+
 
 
 
