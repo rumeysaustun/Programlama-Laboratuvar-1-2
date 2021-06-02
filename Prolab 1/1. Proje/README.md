@@ -1,14 +1,14 @@
 # Minimum Çevreleyen Çember ve Noktalardan Geçen Eğri
 
-Rumeysa ÜSTÜN
-Bu proje C dili ile yazılmıştır.
-**UYARI:** Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.
+Rumeysa ÜSTÜN <br>
+Bu proje C dili ile yazılmıştır.<br>
+**UYARI:** Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.<br>
 
 Kurulum
 -----------------
-+Graphics.h kütüphanesini [buradan](https://drive.google.com/file/d/1DdLhqOUfz95W8nG3weN_KUcYQn_TUSL7/view) indirebilirsiniz.
++ Graphics.h kütüphanesini [buradan](https://drive.google.com/file/d/1DdLhqOUfz95W8nG3weN_KUcYQn_TUSL7/view) indirebilirsiniz.<br>
 
-+Kütüphanenin kurulumu için [bu videodan](https://www.youtube.com/watch?v=H5bjXTz-HHo&feature=emb_logo) yardım alabilirsiniz.
++ Kütüphanenin kurulumu için [bu videodan](https://www.youtube.com/watch?v=H5bjXTz-HHo&feature=emb_logo) yardım alabilirsiniz.<br>
 
 Çalıştırma
 -------------------
