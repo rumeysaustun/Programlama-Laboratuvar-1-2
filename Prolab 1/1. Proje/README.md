@@ -6,9 +6,9 @@ Bu proje C dili ile yazılmıştır.<br>
 
 Özet
 -------------
-  Programlama Laboratuvarı I dersinde bizden, dosyadan çekilen koordinatları iki boyutlu düzlemde gösteren, bu noktaları çevreleyen en küçük çemberi çizen ve bu noktalardan veya bu noktaların yakınından geçen eğriyi çizdirmemiz istendi.
+Programlama Laboratuvarı 1 dersinde bizden, dosyadan çekilen koordinatları iki boyutlu düzlemde gösteren, bu noktaları çevreleyen en küçük çemberi çizen ve bu noktalardan veya bu noktaların yakınından geçen eğriyi çizdirmemiz istendi.
 
-  Bunlar için bize sunulan arayüz tasarım kütüphanelerinden Graphics.h kütüphanesini kullandım. Graphics.h kütüphanesini ise kullanım kolaylığı ve proje yeterliliği için seçtim. Detaylar Raporda mevcuttur.
+Bunlar için bize sunulan arayüz tasarım kütüphanelerinden Graphics.h kütüphanesini kullandım. Graphics.h kütüphanesini ise kullanım kolaylığı ve proje yeterliliği için seçtim. Detaylar Raporda mevcuttur.
 
 
 Kurulum
