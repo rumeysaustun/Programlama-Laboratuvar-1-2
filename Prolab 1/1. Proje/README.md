@@ -4,9 +4,14 @@ Rumeysa ÜSTÜN
 Bu proje C dili ile yazılmıştır.
 **UYARI:** Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.
 
-KURULUM
+Kurulum
 -----------------
-Grsphics.h kütüphanesini [buradan](https://drive.google.com/file/d/1DdLhqOUfz95W8nG3weN_KUcYQn_TUSL7/view) indirebilirsiniz.
++Graphics.h kütüphanesini [buradan](https://drive.google.com/file/d/1DdLhqOUfz95W8nG3weN_KUcYQn_TUSL7/view) indirebilirsiniz.
+
++Kütüphanenin kurulumu için [bu videodan](https://www.youtube.com/watch?v=H5bjXTz-HHo&feature=emb_logo) yardım alabilirsiniz.
+
+Çalıştırma
+-------------------
 
 1- Programı çalıştıracağınız klasöre "dosya.txt" adında bir txt dosyası açınız. 
 
