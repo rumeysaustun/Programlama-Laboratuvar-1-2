@@ -23,7 +23,7 @@ Projeyi Çalıştırma
 
 - Türkçe karakter kullamayınız.
 - Noktalama işaretlerini, kelimelerden ayrı olarak yazınız.
-- Büyük harf küçük harf duyarlılığı yoktur.
+- Büyük harf küçük harf duyarlılığı yoktur. Bunu dikkate alarak yazınız.
 
 Projeden Görseller
 ------------
