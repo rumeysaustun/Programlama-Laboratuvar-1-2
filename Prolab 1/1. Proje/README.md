@@ -13,13 +13,13 @@ Kurulum
 Projeyi Çalıştırma
 -------------------
 
-* Kütüphane kurulumları yapıldıktan sonra projeyi indiriniz.
-* Programı çalıştıracağınız klasöre "dosya.txt" adında bir txt dosyası açınız. 
-* Dosyanın içine noktaları şu formatta giriniz:
+* Kütüphane kurulumları yapıldıktan sonra projeyi indiriniz.<br>
+* Programı çalıştıracağınız klasöre "dosya.txt" adında bir txt dosyası açınız. <br>
+* Dosyanın içine noktaları şu formatta giriniz:<br>
 
 `{{x1,y1}{x2,y2}{x3,y3}{x4,y4}...{xn,yn}}`
 
-* main.c kodlarını derleyip çalıştırın.
+* main.c kodlarını derleyip çalıştırın.<br>
 
 **Not:**  Önünüze gelen minimum çevreleyen çember grafiğini geçip eğri grafiğine geçmek için klavyeden bir tuşa basınız. <br>
 **Not-2:** Bu program aynı x değerleri verdiğiniz zaman Bezier spline'ı kesik olarak çizmektedir.  <br>
