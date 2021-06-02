@@ -1,5 +1,4 @@
-#Minimum Çevreleyen Çember ve Noktalardan Geçen Eğri
---------------------------------------------------------
+# Minimum Çevreleyen Çember ve Noktalardan Geçen Eğri
 UYARI: Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.
 
 1- Programı çalıştıracağınız klasöre "dosya.txt" adında bir txt dosyası açınız. 
