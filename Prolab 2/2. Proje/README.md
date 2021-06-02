@@ -17,7 +17,7 @@ durumda ise kasada bir değişiklik olmuyor
 
 Projeyi Çalıştırma
 ------------------
-* Gerekli bağlantılar yapılır.<br>
+* Gerekli bağlantılar yapın.<br>
 
 * main.ino kodlarını arduino idesinde derleyip çalıştırın.<br>
 
