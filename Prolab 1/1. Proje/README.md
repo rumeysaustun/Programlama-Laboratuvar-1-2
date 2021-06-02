@@ -1,5 +1,12 @@
 # Minimum Çevreleyen Çember ve Noktalardan Geçen Eğri
-UYARI: Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.
+
+Rumeysa ÜSTÜN
+Bu proje C dili ile yazılmıştır.
+**UYARI:** Bu projede istenen B-spline yerine Bezier Spline yapılmıştır.
+
+KURULUM
+-----------------
+Grsphics.h kütüphanesini [buradan](https://drive.google.com/file/d/1DdLhqOUfz95W8nG3weN_KUcYQn_TUSL7/view) indirebilirsiniz.
 
 1- Programı çalıştıracağınız klasöre "dosya.txt" adında bir txt dosyası açınız. 
 
