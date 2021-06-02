@@ -28,4 +28,4 @@ Projeyi Çalıştırma
 
 **ERROR 1 :** sstream hatası alınıyorsa kullanılan dosyanın uzantısının ".cpp" olmasına dikkat etmeliyiz.<br>
 **ERROR 2 :** [$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)] Kod satırı hata veriyorsa graphics.h kütüphanesini tekrar kurmanız gerekir. <br>
-(Tekrar indirmeye gerek yok sadece kurulum yapılırsa yeterli olur) 
+_(Tekrar indirmeye gerek yok sadece kurulum yapılırsa yeterli olur)_
